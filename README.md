@@ -1,2 +1,1 @@
-# Hello-World
-Bandymas
+# Hello World
